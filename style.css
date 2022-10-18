@@ -2,13 +2,18 @@ h1 {
   color: white;
   background-color: black;
   text-decoration: underline;
-}
-p {
-  color: black;
+  font-family: "Times New Roman", Times, serif;
 }
 h2 {
   color: black;
-  text-decoration:italic;
+  text-decoration:<b></b>;
+}
+h3 {
+  color: black;
+  text-decoration:underline;
+}
+p {
+  color: black;
 }
 h4 {
 	text-decoration: underline;
