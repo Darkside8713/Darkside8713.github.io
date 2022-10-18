@@ -1,15 +1,19 @@
 h1 {
   color: blue;
 }
+
 p {
   color: black;
 }
+
 h2 {
   color: red;
 }
+
 body {
   background-color: powderblue;
 }
+
   table, th, td {
   border: 1px solid;
 }
