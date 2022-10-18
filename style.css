@@ -1,14 +1,14 @@
-body {
-  background-color: powderblue;
-}
 h1 {
   color: blue;
 }
-h2 {
+p {
   color: black;
 }
-p {
+h2 {
   color: red;
+}
+body {
+  background-color: powderblue;
 }
   table, th, td {
   border: 1px solid;
