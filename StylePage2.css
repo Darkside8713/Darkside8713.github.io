@@ -1,9 +1,12 @@
+/* Give a background to the head and the body of the page */
 head {
   background-color: black;
 }
 body {
   background-color: black;
 }
+
+/* Style h1, h2, h3, and p accordingly */
 h1 {
   color: white;
   text-decoration: underline;
@@ -19,4 +22,13 @@ h3 {
 }
 p {
   color: magenta;
+}
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  padding: 8px;
+  background-color: #dddddd;
 }
